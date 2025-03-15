@@ -1,0 +1,4 @@
+# 下载设置
+download:
+  ytb_resolution: "1080"  # 默认分辨率
+  output_dir: "downloads"  # 下载目录
