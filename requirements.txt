@@ -1,0 +1,12 @@
+# YouTube Downloader 依赖
+# 跨平台支持：Windows / macOS
+
+# 核心依赖
+yt-dlp>=2023.12.30
+pyyaml>=6.0.1
+
+# GUI 框架
+PyQt6>=6.4.0
+
+# 打包工具（开发/打包时使用）
+pyinstaller>=5.0.0

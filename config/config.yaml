@@ -1,4 +1,11 @@
-# 下载设置
 download:
-  ytb_resolution: "1080"  # 默认分辨率
-  output_dir: "downloads"  # 下载目录
+  output_dir: /Users/edgarlqs/Downloads
+  proxy: http://127.0.0.1:7897
+  ytb_resolution: best
+history:
+  enabled: true
+  storage_path: data/history.json
+ui:
+  theme: system
+  window_height: 600
+  window_width: 800
